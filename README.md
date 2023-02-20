@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **using the Pytorch framework**
 
-- 📫 How to reach me **Connect with me on LinkedIn**
+- 📫 How to reach me: **Connect with me on LinkedIn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
