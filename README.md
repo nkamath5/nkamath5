@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nidhish</h1>
-<h3 align="center">I'm a budding Data Scientist (including Deep Learning🕸️), currently a grad student at the University of Illinois Urbana-Champaign 🧑‍🎓</h3>
+<h3 align="center">I'm a budding Data Scientist, and currently a grad student at the University of Illinois Urbana-Champaign 🧑‍🎓</h3>
 
 - 🔭 I’m currently working on **Computer Vision problems (Python) and Graph/Network problems (C++)**
 
