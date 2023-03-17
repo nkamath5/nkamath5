@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Computer Vision problems (Python) and Graph/Network problems (C++)**
 
-- 🌱 I’m currently learning **using the Pytorch framework**
+- 🌱 I’m currently learning **to use the Pytorch framework with CNNs, GANs etc.**
 
 - 📫 How to reach me: **Connect with me on LinkedIn**
 
