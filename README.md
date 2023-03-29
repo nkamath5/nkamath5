@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **to use the Pytorch framework with CNNs, GANs etc.**
 
-- 📫 How to reach me: **Connect with me on LinkedIn**
+- 📫 How to reach me: **Connect with me on LinkedIn or e-mail me at nkamath5@illinois.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
