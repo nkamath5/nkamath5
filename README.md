@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nidhish</h1>
 <h3 align="center">I'm a budding Data Scientist, and a grad student at the University of Illinois Urbana-Champaign 🧑‍🎓</h3>
 
-<- 🔭 I’m currently working on **Computer Vision problems (Python) and Graph/Network problems (C++)**>
+<!-- - 🔭 I’m currently working on **Computer Vision problems (Python) and Graph/Network problems (C++)**
 
-<- 🌱 I’m currently learning **to use the Pytorch framework extensively with CNNs, GANs etc.**>
+- 🌱 I’m currently learning **to use the Pytorch framework extensively with CNNs, GANs etc.** -->
 
 - 📫 How to reach me: **Connect with me on LinkedIn or e-mail me at nkamath5@illinois.edu**
 
